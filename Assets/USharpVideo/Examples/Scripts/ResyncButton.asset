@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: ResyncButton
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: b75c5cc8b602a4a41b19c606f0161424,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: e691be1ce6f68e647affb7f740e5cedd,
     type: 2}
   udonAssembly: 
   assemblyError: 
