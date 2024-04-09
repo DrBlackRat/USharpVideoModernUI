@@ -1,7 +1,8 @@
-# USharpVideo
-A basic video player made for VRChat using Udon and UdonSharp. Supports normal videos and live streams.
+# USharpVideoModernUI
+This is a fork from the popular VRChat USharpVideo video player with a new modern looking UI. It supports normal videos and live streams.
 
-![image](https://user-images.githubusercontent.com/36685500/121757261-d4acc480-cad1-11eb-9455-c61b676b9e99.png)
+![image](https://github.com/DrBlackRat/USharpVideoModernUI/assets/46327609/8e0d9b69-fec2-441e-9fe4-c43ef9958826)
+
 
 ### See the [Wiki](https://github.com/MerlinVR/USharpVideo/wiki) for more info on advanced configuration and tips + guides
 
@@ -29,3 +30,17 @@ There is also an example scene with the video player setup with lightmapping and
 ## FAQ
 ### Does YouTube work on Quest?
 Yes, YouTube is supported on Quest by default by VRChat now.
+
+### Can this Fork replace exisitng USharpVideo without causing porblems?
+Yes! When adding it to worlds that already have USharpVideo, it will just replace the UI and everything else should still work as expeced.
+
+### Do custom Styles still work with this Fork?
+Yes! The modernised UI still uses the default USharpVideo Sytles, howver the default Sytles have been adjusted a bit and a few unused colors have been removed from the list.
+
+## Credits:
+- USharpVideo:
+  - https://github.com/MerlinVR/USharpVideo
+- Merlin (Original creator of USharpVideo & UdonSharp)
+  - https://twitter.com/MerlinVR_
+- DrBlackRat (Creator of this Fork)
+  - https://drblackrat.xyz
