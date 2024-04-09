@@ -36,7 +36,7 @@ Yes, YouTube is supported on Quest by default by VRChat now.
 Yes! When adding it to worlds that already have USharpVideo, it will just replace the UI and everything else should still work as expeced.
 
 ### Do custom Styles still work with this Fork?
-Yes! The modernised UI still uses the default USharpVideo Sytles, howver the default Sytles have been adjusted a bit and a few unused colors have been removed from the list.
+Yes! The modernized UI still uses the default USharpVideo Sytles, however the default Sytles have been adjusted a bit and a few unused colors have been removed from the list.
 
 ## Credits:
 - USharpVideo:
