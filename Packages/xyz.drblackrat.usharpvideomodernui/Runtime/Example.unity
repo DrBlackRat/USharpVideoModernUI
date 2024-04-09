@@ -357,7 +357,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Version 1.0.0\n\nThis is a fork from the popular VRChat USharpVideo video
+  m_text: "Version 1.0.2\n\nThis is a fork from the popular VRChat USharpVideo video
     player with a new modern looking UI. \nIt still supports everything that normal
     USharpVideo does\n\n\nHere are a few frequently asked questions:\n\nCan this
     Fork replace exisitng USharpVideo without causing porblems?\nYes! When adding
