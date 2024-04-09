@@ -30,9 +30,6 @@ namespace UdonSharp.Video
         [SerializeField]
         private Text statusTextField;
 
-        [SerializeField]
-        private Text statusTextDropShadow;
-
         [Header("Video progress bar")]
         [SerializeField]
         private Slider progressSlider;
@@ -166,7 +163,6 @@ namespace UdonSharp.Video
         {
             _currentStatusText = newStatus;
             if (statusTextField) statusTextField.text = _currentStatusText;
-            if (statusTextDropShadow) statusTextDropShadow.text = _currentStatusText;
             _lastTime = int.MaxValue;
         }
         
@@ -291,7 +287,6 @@ namespace UdonSharp.Video
                     string currentTimeStr = GetFormattedTime(System.TimeSpan.FromSeconds(currentTime));
 
                     if (statusTextField) statusTextField.text = currentTimeStr;
-                    if (statusTextDropShadow) statusTextDropShadow.text = currentTimeStr;
                 }
                 else
                 {
@@ -328,7 +323,6 @@ namespace UdonSharp.Video
                                 string statusStr = currentTimeStr + "/" + totalTimeStr;
 
                                 if (statusTextField) statusTextField.text = statusStr;
-                                if (statusTextDropShadow) statusTextDropShadow.text = statusStr;
                             }
                         }
                     }

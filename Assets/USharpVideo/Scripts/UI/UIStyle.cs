@@ -26,22 +26,16 @@ namespace UdonSharp.Video.UI
         public Color fieldBackgroundColor = Color.black;
         [StyleMarkupLink(StyleClass.ButtonBackground)]
         public Color buttonBackgroundColor = Color.black;
-        [StyleMarkupLink(StyleClass.ScrollBarHandle)]
-        public Color scrollBarHandleColor = Color.black;
         [StyleMarkupLink(StyleClass.ScrollBarProgress)]
         public Color scrollBarProgressColor = Color.black;
         [StyleMarkupLink(StyleClass.Icon)]
         public Color iconColor = Color.black;
-        [StyleMarkupLink(StyleClass.IconDropShadow)]
-        public Color iconDropShadowColor = Color.black;
         [StyleMarkupLink(StyleClass.HighlightedButton)]
         public Color highlightedButtonColor = Color.black;
         [StyleMarkupLink(StyleClass.PlaceholderText)]
         public Color placeholderTextColor = Color.black;
         [StyleMarkupLink(StyleClass.Text)]
         public Color textColor = Color.black;
-        [StyleMarkupLink(StyleClass.TextDropShadow)]
-        public Color textDropShadowColor = Color.black;
         [StyleMarkupLink(StyleClass.InvertedText)]
         public Color invertedTextColor = Color.black;
         [StyleMarkupLink(StyleClass.RedIcon)]
