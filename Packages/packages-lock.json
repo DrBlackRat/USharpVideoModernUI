@@ -291,6 +291,12 @@
         "com.unity.inputsystem": "1.2.0"
       }
     },
+    "xyz.drblackrat.usharpvideomodernui": {
+      "version": "file:xyz.drblackrat.usharpvideomodernui",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,
