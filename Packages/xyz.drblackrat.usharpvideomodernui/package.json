@@ -1,0 +1,20 @@
+{
+  "name": "xyz.drblackrat.usharpvideomodernui",
+  "displayName": "USharpVideoModernUI",
+  "version": "1.0.1",
+  "description": "A fork of USharpVideo with a more modern looking UI",
+  "dependencies": {},
+  "gitDependencies": {},
+  "vpmDependencies": {
+    "com.vrchat.worlds": "3.x.x"
+  },
+  "author": {
+    "name": "DrBlackRat",
+    "email": "drblackrat@gmail.com",
+    "url": "https://drblackrat.xyz"
+  },
+  "legacyFolders": {
+    "Assets\\USharpVideo": ""
+  },
+  "legacyFiles": {}
+}
