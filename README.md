@@ -7,6 +7,7 @@ This is a fork from the popular VRChat USharpVideo video player with a new moder
 ### See the [Wiki](https://github.com/MerlinVR/USharpVideo/wiki) for more info on advanced configuration and tips + guides
 
 ## Features
+- Updated Modern UI
 - Allows master only/everyone lock toggle for video playing
 - Video seeking and duration info
 - Pause/Play
