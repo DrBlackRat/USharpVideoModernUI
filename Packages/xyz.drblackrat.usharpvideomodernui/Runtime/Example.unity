@@ -357,7 +357,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Version 1.0.2\n\nThis is a fork from the popular VRChat USharpVideo video
+  m_text: "Version 1.1.0\n\nThis is a fork from the popular VRChat USharpVideo video
     player with a new modern looking UI. \nIt still supports everything that normal
     USharpVideo does\n\n\nHere are a few frequently asked questions:\n\nCan this
     Fork replace exisitng USharpVideo without causing porblems?\nYes! When adding
@@ -931,8 +931,8 @@ MonoBehaviour:
   useAssignedLayers: 0
   DynamicPrefabs: []
   DynamicMaterials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
   - {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
   - {fileID: 2100000, guid: f9f0ca4e1c93d7c449df855cc90deab0, type: 2}
   LightMapsNear: []
   LightMapsFar: []

@@ -1,4 +1,4 @@
 xyz.drblackrat.usharpvideomodernui by DrBlackRat
 
 USharpVideo: v1.0.1
-USharpVideoModernUI: v1.0.0
+USharpVideoModernUI: v1.1.0

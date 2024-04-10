@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5136146375e9a0a498a72a0091b40cc1, type: 3}
-  m_Name: xyz.drblackrat.usharpvideomodernui
+  m_Name: xyz.drblackrat.usharpvideomodernui.Editor
   m_EditorClassIdentifier: 
-  sourceAssembly: {fileID: 5897886265953266890, guid: a202f6857aafd0a479fadef09aba25de,
+  sourceAssembly: {fileID: 5897886265953266890, guid: 007553636c78d3341bde9d8969f0b043,
     type: 3}

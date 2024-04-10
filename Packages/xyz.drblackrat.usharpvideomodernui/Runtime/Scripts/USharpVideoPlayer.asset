@@ -62,7 +62,7 @@ MonoBehaviour:
       Data: 3|System.RuntimeType, mscorlib
     - Name: 
       Entry: 1
-      Data: UdonSharp.Video.VideoPlayerManager, Assembly-CSharp
+      Data: UdonSharp.Video.VideoPlayerManager, xyz.drblackrat.usharpvideomodernui
     - Name: 
       Entry: 8
       Data: 
@@ -1636,7 +1636,7 @@ MonoBehaviour:
       Data: 96|System.RuntimeType, mscorlib
     - Name: 
       Entry: 1
-      Data: UdonSharp.Video.VideoControlHandler[], Assembly-CSharp
+      Data: UdonSharp.Video.VideoControlHandler[], xyz.drblackrat.usharpvideomodernui
     - Name: 
       Entry: 8
       Data: 
@@ -1696,7 +1696,7 @@ MonoBehaviour:
       Data: 100|System.RuntimeType, mscorlib
     - Name: 
       Entry: 1
-      Data: UdonSharp.Video.VideoScreenHandler[], Assembly-CSharp
+      Data: UdonSharp.Video.VideoScreenHandler[], xyz.drblackrat.usharpvideomodernui
     - Name: 
       Entry: 8
       Data: 
