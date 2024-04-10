@@ -5,7 +5,7 @@ This is a fork from the popular VRChat USharpVideo video player with a new moder
 
 
 ### See the [Wiki](https://github.com/MerlinVR/USharpVideo/wiki) for more info on advanced configuration and tips + guides
-### Example World: https://vrchat.com/home/world/wrld_218396b0-f3c5-4f60-965c-0a27fa8d0a38
+### If you want to take a look at it in game first, you can visit the [Example World](https://vrchat.com/home/world/wrld_218396b0-f3c5-4f60-965c-0a27fa8d0a38)
 
 ## Download
 USharpVideoModernUI  is available via the [Creator Companion](https://vcc.docs.vrchat.com/) as a VPM package!
