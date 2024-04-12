@@ -27,14 +27,6 @@ For Standalone Unity I still provide a Unity Package with every release.
 - Reload button
 - Supports YouTube link resolution in the editor the same as in VRC
 
-## Installation
-1. Install the latest VRCSDK and latest release of UdonSharp using the [VRChat Creator Companion](https://vrchat.com/home/download)
-2. Install the [latest](https://github.com/MerlinVR/USharpVideo/releases/latest) release
-2. Drag the USharpVideo prefab into your scene, resize to fit
-3. Optionally bake realtime GI for the scene
-
-There is also an example scene with the video player setup with lightmapping and everything in the `USharpVideo/Examples` directory.
-
 ## FAQ
 ### Does YouTube work on Quest?
 Yes, YouTube is supported on Quest by default by VRChat now.
