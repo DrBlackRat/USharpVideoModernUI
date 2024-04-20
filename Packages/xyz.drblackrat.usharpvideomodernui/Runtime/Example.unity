@@ -931,8 +931,8 @@ MonoBehaviour:
   useAssignedLayers: 0
   DynamicPrefabs: []
   DynamicMaterials:
-  - {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   - {fileID: 2100000, guid: f9f0ca4e1c93d7c449df855cc90deab0, type: 2}
   LightMapsNear: []
   LightMapsFar: []
@@ -2183,6 +2183,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: USharpVideo YouTube
       objectReference: {fileID: 0}
+    - target: {fileID: 6421412928178292075, guid: 87d772cf1b1ec7b49839dde29eb427be,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6421412928253111332, guid: 87d772cf1b1ec7b49839dde29eb427be,
         type: 3}
       propertyPath: m_Color.a
@@ -3097,7 +3102,7 @@ MonoBehaviour:
   m_Elasticity: 0.1
   m_Inertia: 1
   m_DecelerationRate: 0.135
-  m_ScrollSensitivity: 1
+  m_ScrollSensitivity: 0.1
   m_Viewport: {fileID: 1216849054}
   m_HorizontalScrollbar: {fileID: 0}
   m_VerticalScrollbar: {fileID: 595716991}
@@ -4173,6 +4178,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: USharpVideo Classic
+      objectReference: {fileID: 0}
+    - target: {fileID: 6421412928178292075, guid: 87d772cf1b1ec7b49839dde29eb427be,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6421412928253111332, guid: 87d772cf1b1ec7b49839dde29eb427be,
         type: 3}
@@ -5411,6 +5421,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: USharpVideo Light
       objectReference: {fileID: 0}
+    - target: {fileID: 6421412928178292075, guid: 87d772cf1b1ec7b49839dde29eb427be,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6421412928253111332, guid: 87d772cf1b1ec7b49839dde29eb427be,
         type: 3}
       propertyPath: m_Color.b
@@ -6236,6 +6251,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: USharpVideo Dark
+      objectReference: {fileID: 0}
+    - target: {fileID: 6421412928178292075, guid: 87d772cf1b1ec7b49839dde29eb427be,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6421412928314014391, guid: 87d772cf1b1ec7b49839dde29eb427be,
         type: 3}
